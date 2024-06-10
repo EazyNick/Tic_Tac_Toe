@@ -4,6 +4,7 @@
 <p align="center">
 ![image](https://github.com/EazyNick/Tic_Tac_Toe/assets/123717093/54e01cae-c25e-4366-acf5-baa7a09c7de8)
   </p>
+  <br>
   <p align="center">
 ![image](https://github.com/EazyNick/Tic_Tac_Toe/assets/123717093/89e73494-8205-4a3d-95c9-4565c7bc1b95)
 </p>
